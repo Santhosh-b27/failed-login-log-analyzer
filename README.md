@@ -258,20 +258,3 @@ test_siem_json_export (test_reporting.TestReporting) ... ok
 Ran 19 tests in 0.045s
 
 OK (100% Passing)
-```
-
----
-
-## 💼 How to Present This on Your Resume
-
-See **[RESUME_GUIDE.md](RESUME_GUIDE.md)** for:
-- Pre-written, high-impact bullet points formatted with Google's **STAR** and **X-Y-Z** framework.
-- Role-specific variations (SOC Analyst, Detection Engineer, DevSecOps, Python Security Engineer).
-- 10 Technical interview questions with suggested answers explaining sliding window time complexity, correlation architecture, and false-positive reduction strategies.
-- A 5-minute live interview demo script.
-
----
-
-## 📜 License
-
-This project is licensed under the MIT License - see the LICENSE file for details.
