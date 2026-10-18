@@ -1,0 +1,9 @@
+# AuthSentinel Core Requirements
+# The core detection and parsing engine runs with 0 external dependencies (Python standard library).
+# The packages below provide rich terminal colors, SOC dashboard, and visual analytics:
+
+colorama>=0.4.6
+streamlit>=1.30.0
+pandas>=2.0.0
+plotly>=5.18.0
+altair>=5.0.0
